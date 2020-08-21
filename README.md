@@ -1,7 +1,7 @@
 # ASP.NET-CORE
 <h2> ASP.NET-Core repository is stuffed with web apps built using ASP.NET Core MVC on various case studies.</h2>
 <hr/>
-## Retail Banking - Fedchoi$e Bank
+<h3>Retail Banking - Fedchoi$e Bank</h3>
 <hr/>
 <p>
   It is web app conceptualized for the bank employees of FedChoice Bank. This web app enables the bank to

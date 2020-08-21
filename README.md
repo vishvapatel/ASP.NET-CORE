@@ -14,6 +14,6 @@
     <li>Enables bank cashier to  Deposit, withdraw, Transfer money from one account to another.</li>
     <li> Enables customer executive to cater to customer's request to view/download/print a detailed account statement in the form of a pdf, prn file.</li>
   </ul>
-   <h6>This webapp is currently hosted on Microsoft Azure,have a look: retailbanking.azurewebsites.net</h6> 
+   <h6>This webapp is currently hosted on Microsoft Azure,have a look: <a href = "http://retailbanking.azurewebsites.net">Fedchoice Bank<a/></h6> 
    <p>The file for this app is RetailBanking.zip in the repo</p>
 </p>

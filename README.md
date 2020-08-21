@@ -15,5 +15,10 @@
     <li> Enables customer executive to cater to customer's request to view/download/print a detailed account statement in the form of a pdf, prn file.</li>
   </ul>
    <h6>This webapp is currently hosted on Microsoft Azure,have a look: <a href = "http://retailbanking.azurewebsites.net">Fedchoice Bank<a/></h6> 
+  <b>Login Credentials</b>
+  <ul>
+    <li>Employee Id: 201920980</li>
+    <li>Employee Password: vp@ICICIB</li>
+  </ul>
    <p>The file for this app is RetailBanking.zip in the repo</p>
 </p>

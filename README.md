@@ -23,10 +23,10 @@
    <p>The file for this app is RetailBanking.zip in the repo</p>
 </p>
 <hr>
-<h3>Assessment - CT20182383524- Product Management App</h3>
+<h3>Assessment_CT20182383524 - Product Management App</h3>
 <hr/>
 <p>
-  An simple ASP-Net core MVC app to add products and keep a record of it.
+  An simple ASP-Net core MVC app to add products and keep a record of it.<br>
   <b>Services:</b>
   <ul>
     <li>Add a product by filling a form</li>
